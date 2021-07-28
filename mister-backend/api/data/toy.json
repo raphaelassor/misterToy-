@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "VGtIG",
+      "name": "sdsd",
+      "inStock": true,
+      "price": "23",
+      "type": "children",
+      "createdAt": 1621782760592,
+      "imgUrl": "https://robohash.org/VGtIG"
+    },
+    {
+      "_id": "EtLPC",
+      "name": "wdsd",
+      "inStock": true,
+      "price": "12",
+      "type": "children",
+      "createdAt": 1621782733474,
+      "imgUrl": "https://robohash.org/EtLPC"
+    },
+    {
+      "_id": "13BBW",
+      "name": "dd",
+      "inStock": true,
+      "price": "22",
+      "type": "children",
+      "createdAt": 1621440390626,
+      "imgUrl": "https://robohash.org/13BBW"
+    },
+    {
+      "_id": "QEsaA",
+      "name": "fressti",
+      "inStock": false,
+      "price": "9.99",
+      "type": "funny",
+      "createdAt": 1621419195083,
+      "imgUrl": "https://robohash.org/QEsaA"
+    },
+    {
+      "_id": "NQ7Jh",
+      "name": "test ",
+      "inStock": true,
+      "price": "14.00",
+      "type": "children",
+      "createdAt": 1621419152839,
+      "imgUrl": "https://robohash.org/NQ7Jh"
+    }
+  ]
